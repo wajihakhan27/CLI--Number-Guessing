@@ -1,0 +1,21 @@
+{
+  "name": "wa2k_cli--number-guessing",
+  "version": "1.0.0",
+  "description": "Create a CLI number guessing game where players input guesses to match a randomly generated number.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wajiha Khan",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "wa2k_cli--number-guessing": "^1.0.0",
+    "waji27_cli--number-guessing": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
